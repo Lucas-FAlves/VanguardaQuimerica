@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "vanguardaquimerica",
+			"Path": "C:\\Users\\Cliente\\Documents\\Unreal Projects\\Vanguarda quimerica\\vanguardaquimerica\\Source\\vanguardaquimerica.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "vanguardaquimericaEditor",
+			"Path": "C:\\Users\\Cliente\\Documents\\Unreal Projects\\Vanguarda quimerica\\vanguardaquimerica\\Source\\vanguardaquimericaEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\Cliente\\Documents\\Unreal Projects\\Vanguarda quimerica\\vanguardaquimerica\\Source\\vanguardaquimerica\\vanguardaquimerica.Build.cs",
+		"C:\\Users\\Cliente\\Documents\\Unreal Projects\\Vanguarda quimerica\\vanguardaquimerica\\Source\\vanguardaquimerica.Target.cs",
+		"C:\\Users\\Cliente\\Documents\\Unreal Projects\\Vanguarda quimerica\\vanguardaquimerica\\Source\\vanguardaquimericaEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

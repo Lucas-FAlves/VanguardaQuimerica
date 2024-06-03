@@ -1,0 +1,23 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-vanguardaquimerica.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Cliente\Documents\Unreal Projects\Vanguarda quimerica\vanguardaquimerica\Intermediate\Build\Win64\vanguardaquimericaEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Cliente\Documents\Unreal Projects\Vanguarda quimerica\vanguardaquimerica\Intermediate\Build\Win64\UE4Editor\Development\vanguardaquimerica\vanguardaquimerica.cpp.obj"
+"C:\Users\Cliente\Documents\Unreal Projects\Vanguarda quimerica\vanguardaquimerica\Intermediate\Build\Win64\UE4Editor\Development\vanguardaquimerica\vanguardaquimericaBlock.cpp.obj"
+"C:\Users\Cliente\Documents\Unreal Projects\Vanguarda quimerica\vanguardaquimerica\Intermediate\Build\Win64\UE4Editor\Development\vanguardaquimerica\vanguardaquimericaBlockGrid.cpp.obj"
+"C:\Users\Cliente\Documents\Unreal Projects\Vanguarda quimerica\vanguardaquimerica\Intermediate\Build\Win64\UE4Editor\Development\vanguardaquimerica\vanguardaquimericaGameMode.cpp.obj"
+"C:\Users\Cliente\Documents\Unreal Projects\Vanguarda quimerica\vanguardaquimerica\Intermediate\Build\Win64\UE4Editor\Development\vanguardaquimerica\vanguardaquimericaPawn.cpp.obj"
+"C:\Users\Cliente\Documents\Unreal Projects\Vanguarda quimerica\vanguardaquimerica\Intermediate\Build\Win64\UE4Editor\Development\vanguardaquimerica\vanguardaquimericaPlayerController.cpp.obj"
+"C:\Users\Cliente\Documents\Unreal Projects\Vanguarda quimerica\vanguardaquimerica\Intermediate\Build\Win64\UE4Editor\Development\vanguardaquimerica\vanguardaquimerica.init.gen.cpp.obj"
+"C:\Users\Cliente\Documents\Unreal Projects\Vanguarda quimerica\vanguardaquimerica\Intermediate\Build\Win64\UE4Editor\Development\vanguardaquimerica\vanguardaquimericaBlock.gen.cpp.obj"
+"C:\Users\Cliente\Documents\Unreal Projects\Vanguarda quimerica\vanguardaquimerica\Intermediate\Build\Win64\UE4Editor\Development\vanguardaquimerica\vanguardaquimericaBlockGrid.gen.cpp.obj"
+"C:\Users\Cliente\Documents\Unreal Projects\Vanguarda quimerica\vanguardaquimerica\Intermediate\Build\Win64\UE4Editor\Development\vanguardaquimerica\vanguardaquimericaGameMode.gen.cpp.obj"
+"C:\Users\Cliente\Documents\Unreal Projects\Vanguarda quimerica\vanguardaquimerica\Intermediate\Build\Win64\UE4Editor\Development\vanguardaquimerica\vanguardaquimericaPawn.gen.cpp.obj"
+"C:\Users\Cliente\Documents\Unreal Projects\Vanguarda quimerica\vanguardaquimerica\Intermediate\Build\Win64\UE4Editor\Development\vanguardaquimerica\vanguardaquimericaPlayerController.gen.cpp.obj"
+"C:\Users\Cliente\Documents\Unreal Projects\Vanguarda quimerica\vanguardaquimerica\Intermediate\Build\Win64\UE4Editor\Development\vanguardaquimerica\Default.rc2.res"
+/OUT:"C:\Users\Cliente\Documents\Unreal Projects\Vanguarda quimerica\vanguardaquimerica\Intermediate\Build\Win64\UE4Editor\Development\vanguardaquimerica\UE4Editor-vanguardaquimerica.lib"

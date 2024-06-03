@@ -1,0 +1,3 @@
+C:\Users\Cliente\Documents\Unreal Projects\Vanguarda quimerica\vanguardaquimerica\Intermediate\Build\Win64\UE4Editor\Development\vanguardaquimerica\Definitions.vanguardaquimerica.h
+C:\Users\Cliente\Documents\Unreal Projects\Vanguarda quimerica\vanguardaquimerica\Source\vanguardaquimerica\vanguardaquimericaPlayerController.h
+C:\Users\Cliente\Documents\Unreal Projects\Vanguarda quimerica\vanguardaquimerica\Intermediate\Build\Win64\UE4Editor\Inc\vanguardaquimerica\vanguardaquimericaPlayerController.generated.h

@@ -1,0 +1,5 @@
+C:\Users\Cliente\Documents\Unreal Projects\Vanguarda quimerica\vanguardaquimerica\Intermediate\Build\Win64\UE4Editor\Development\vanguardaquimerica\Definitions.vanguardaquimerica.h
+C:\Users\Cliente\Documents\Unreal Projects\Vanguarda quimerica\vanguardaquimerica\Source\vanguardaquimerica\vanguardaquimericaBlock.h
+C:\Users\Cliente\Documents\Unreal Projects\Vanguarda quimerica\vanguardaquimerica\Intermediate\Build\Win64\UE4Editor\Inc\vanguardaquimerica\vanguardaquimericaBlock.generated.h
+C:\Users\Cliente\Documents\Unreal Projects\Vanguarda quimerica\vanguardaquimerica\Source\vanguardaquimerica\vanguardaquimericaBlockGrid.h
+C:\Users\Cliente\Documents\Unreal Projects\Vanguarda quimerica\vanguardaquimerica\Intermediate\Build\Win64\UE4Editor\Inc\vanguardaquimerica\vanguardaquimericaBlockGrid.generated.h

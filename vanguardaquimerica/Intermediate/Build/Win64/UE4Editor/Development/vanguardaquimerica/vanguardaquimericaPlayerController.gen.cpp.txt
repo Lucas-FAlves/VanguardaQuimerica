@@ -1,0 +1,5 @@
+C:\Users\Cliente\Documents\Unreal Projects\Vanguarda quimerica\vanguardaquimerica\Intermediate\Build\Win64\UE4Editor\Development\vanguardaquimerica\Definitions.vanguardaquimerica.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Cliente\Documents\Unreal Projects\Vanguarda quimerica\vanguardaquimerica\Source\vanguardaquimerica/vanguardaquimericaPlayerController.h
+C:\Users\Cliente\Documents\Unreal Projects\Vanguarda quimerica\vanguardaquimerica\Intermediate\Build\Win64\UE4Editor\Inc\vanguardaquimerica\vanguardaquimericaPlayerController.generated.h

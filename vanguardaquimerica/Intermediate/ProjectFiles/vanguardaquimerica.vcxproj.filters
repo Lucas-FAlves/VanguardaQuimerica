@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\vanguardaquimerica.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{D8568BF4-C3C6-4258-BFE4-CABC830388BD}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\vanguardaquimerica.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\vanguardaquimericaEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{87DDC0FE-6F5F-4A64-B72B-9D3D02C9FF67}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\vanguardaquimerica">
+      <UniqueIdentifier>{2411C0E5-8752-4AC4-AF89-B2D078F607BC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\vanguardaquimerica\vanguardaquimerica.Build.cs">
+      <Filter>Source\vanguardaquimerica</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\vanguardaquimerica\vanguardaquimerica.cpp">
+      <Filter>Source\vanguardaquimerica</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\vanguardaquimerica\vanguardaquimerica.h">
+      <Filter>Source\vanguardaquimerica</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\vanguardaquimerica\vanguardaquimericaBlock.cpp">
+      <Filter>Source\vanguardaquimerica</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\vanguardaquimerica\vanguardaquimericaBlock.h">
+      <Filter>Source\vanguardaquimerica</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\vanguardaquimerica\vanguardaquimericaBlockGrid.cpp">
+      <Filter>Source\vanguardaquimerica</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\vanguardaquimerica\vanguardaquimericaBlockGrid.h">
+      <Filter>Source\vanguardaquimerica</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\vanguardaquimerica\vanguardaquimericaGameMode.cpp">
+      <Filter>Source\vanguardaquimerica</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\vanguardaquimerica\vanguardaquimericaGameMode.h">
+      <Filter>Source\vanguardaquimerica</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\vanguardaquimerica\vanguardaquimericaPawn.cpp">
+      <Filter>Source\vanguardaquimerica</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\vanguardaquimerica\vanguardaquimericaPawn.h">
+      <Filter>Source\vanguardaquimerica</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\vanguardaquimerica\vanguardaquimericaPlayerController.cpp">
+      <Filter>Source\vanguardaquimerica</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\vanguardaquimerica\vanguardaquimericaPlayerController.h">
+      <Filter>Source\vanguardaquimerica</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
