@@ -72,3 +72,6 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+vanguardaquimerica/Intermediate/Config/CoalescedSourceConfigs/Scalability.ini
+vanguardaquimerica/Saved/Config/CrashReportClient/UE4CC-Windows-39D30F5E4DD20E535828FF9F7BA9780B/CrashReportClient.ini
+vanguardaquimerica/Build/Android/project.properties
